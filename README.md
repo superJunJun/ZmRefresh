@@ -30,7 +30,7 @@ ReactNative
 （以下是在  *react-native 0.49.5*  以上版本情况下）
 
  * 在下拉后 会报错 Unsupported top level event type "topRefresh" dispatched  
-   具体参考[https://github.com/facebook/react-native/issues/16522](https://github.com/facebook/react-native/issues/16522 "悬停显示") 
+   具体参考[issues](https://github.com/facebook/react-native/issues/16522 "悬停显示") 
 
  
 ```
